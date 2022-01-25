@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.leaflet-container {
+  height: 100vh;
+  width: 100%;
+}
+
+.leaflet-div-icon {
+  background: transparent;
+  border: none;
+}
+
+.background-red {
+  /* background-color: red !important; */
+  border: solid red !important;
+}
+.background-green {
+  /* background-color: green !important; */
+  border: solid green !important;
+  /* animation: spin 10s linear infinite; */
+}
+.background-yellow {
+  /* background-color: yellow !important; */
+  border: solid yellow !important;
+}
+.background-orange {
+  /* background-color: orange !important; */
+  border: solid orange !important;
+}
+.background-blue {
+  /* background-color: skyblue !important; */
+  border: solid skyblue !important;
+}
+
+.sizeMap {
+  height: 59vh;
+}
+
+/* @media only screen and (min-width: 1700px) {
+    .sizeMap {
+        height: 65vh;
+    }
+}
+
+@media only screen and (min-width: 2000px) {
+    .sizeMap {
+        height: 60vh;
+    }
+} */
